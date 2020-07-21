@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "690897303704",
+    "firebase_url": "https://react-native-firebase-au-fb3e4.firebaseio.com",
+    "project_id": "react-native-firebase-au-fb3e4",
+    "storage_bucket": "react-native-firebase-au-fb3e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690897303704:android:8e4e21c0c1f0c7234478ed",
+        "android_client_info": {
+          "package_name": "com.reactnativefirebaseauthtemplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690897303704-klgasj8l9j404dk6bav00af6u3eeko6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_8GPrbOvvmprsYUY_MVZDC5cVtyfPvSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690897303704-klgasj8l9j404dk6bav00af6u3eeko6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
